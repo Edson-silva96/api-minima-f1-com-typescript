@@ -1,0 +1,1 @@
+# api-minima-f1-com-typescript
